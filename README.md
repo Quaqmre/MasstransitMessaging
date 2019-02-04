@@ -13,8 +13,11 @@ Then print the screen
 
 **U have to Rabbitmq services , or u can use this Docker Container:**
 
-> _docker run -d -p 15672:15672 -p 5672:5672 rabbitmq:3-management_
+ _docker run -d -p 15672:15672 -p 5672:5672 rabbitmq:3-management_
 
-> or u can use docker file in the root directory with
-> _docker build ._
-> _docker run [Container Id]_
+or u can use docker file in the root directory with
+
+
+_docker build ._
+
+_docker run [Container Id]_
