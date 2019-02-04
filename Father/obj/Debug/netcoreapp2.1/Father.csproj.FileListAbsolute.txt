@@ -1,0 +1,14 @@
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Father.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Father.runtimeconfig.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Father.runtimeconfig.dev.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Father.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Father.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.csproj.CopyComplete
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\Father\obj\Debug\netcoreapp2.1\Father.pdb

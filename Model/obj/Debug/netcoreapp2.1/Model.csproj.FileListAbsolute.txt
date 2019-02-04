@@ -1,0 +1,18 @@
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Model\obj\Debug\netcoreapp2.1\Model.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\obj\Debug\netcoreapp2.1\Model.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\Model\bin\Debug\netcoreapp2.1\Model.pdb

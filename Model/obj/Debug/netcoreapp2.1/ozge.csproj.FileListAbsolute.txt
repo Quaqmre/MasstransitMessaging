@@ -1,0 +1,9 @@
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\obj\Debug\netcoreapp2.1\ozge.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\obj\Debug\netcoreapp2.1\ozge.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\obj\Debug\netcoreapp2.1\ozge.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\obj\Debug\netcoreapp2.1\ozge.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\bin\Debug\netcoreapp2.1\ozge.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\bin\Debug\netcoreapp2.1\ozge.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\bin\Debug\netcoreapp2.1\ozge.pdb
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\obj\Debug\netcoreapp2.1\ozge.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\ozge\obj\Debug\netcoreapp2.1\ozge.pdb

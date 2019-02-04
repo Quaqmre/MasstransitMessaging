@@ -1,0 +1,28 @@
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.runtimeconfig.json
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.runtimeconfig.dev.json
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.pdb
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.csproj.CopyComplete
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.dll
+C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.runtimeconfig.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.runtimeconfig.dev.json
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\MakeTransaction.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Proje\MakeTransaction\obj\Debug\netcoreapp2.1\MakeTransaction.csproj.CopyComplete
