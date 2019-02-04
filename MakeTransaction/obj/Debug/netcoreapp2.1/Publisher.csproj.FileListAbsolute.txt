@@ -1,4 +1,0 @@
-C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Publisher\obj\Debug\netcoreapp2.1\Publisher.csprojAssemblyReference.cache
-C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CoreCompileInputs.cache
-C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfoInputs.cache
-C:\Users\mehmetakif.tatar\Desktop\Yeni klasör (3)\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfo.cs
