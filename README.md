@@ -11,7 +11,7 @@ The last one is Father,
  Father Listening the other 2 service and compute All Entry Messages and compute Accepted Entry Messages
 Then print the screen
 
-**U have to Rabbitmq services , or u can use this Docker Container:**
+**U have to run Rabbitmq services , or u can use this Docker Container:**
 
  _docker run -d -p 15672:15672 -p 5672:5672 rabbitmq:3-management_
 
